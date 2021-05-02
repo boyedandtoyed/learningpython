@@ -1,0 +1,20 @@
+Nepal/Kathmandu
+Pakistan/Islamabad
+China/Beijing
+India/New Delhi
+Bangladesh/Dhaka
+Bhutan/Thimphu
+Australia/Canberra
+U.S.A/Washington D.C
+Brazil/Brasilia
+Russia/Moscow
+Japan/Tokyo
+South Korea/Seoul
+U.K/London
+Malaysia/Kuala Lampur
+Thailand/Bangkok
+Italy/Rome
+France/Paris
+Egypt/Cairo
+U.A.E/Dubai
+Ï€
